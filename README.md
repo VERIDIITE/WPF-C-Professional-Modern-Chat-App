@@ -1,3 +1,5 @@
+![Alt text](19.png)
+
 # **WPF MVVM Modern Chat Application**
 
 Welcome to the **WPF-Modern-Chat-App** repository! 🚀 This project is a **professional, real-time chat application** built using **WPF (Windows Presentation Foundation)** with the **MVVM (Model-View-ViewModel) pattern**. It includes a **modern UI, real-time messaging, user authentication, and a typing indicator** to enhance the chat experience.
@@ -44,12 +46,6 @@ WPF-MVVM-Dashboard-UI/
 git clone https://github.com/YOUR_USERNAME/WPF-Modern-Chat-App.git
 cd WPF-Modern-Chat-App
 ```
-
-## **📷 Screenshots**  
-
-![Alt text](V2.png)
-
----
 
 ## **👨‍💻 Author**  
 
